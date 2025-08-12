@@ -1,13 +1,10 @@
-# Wintermute Alpha Challenge
-
-[![Telegram Chat][tg-badge]][tg-url]
-
-[tg-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2F%2Bly4MagsaeQ1lOTA8
-[tg-url]: https://t.me/+ly4MagsaeQ1lOTA8
+# Wintermute Alpha Challenge 2024
 
 The Alpha Challenge is our experimental way to reach two goals:
 - to provide a way for the crypto community to test their on-chain analysis skills
 - to find the best talents for roles requiring a researcher mindset at Wintermute and portfolio/friendly companies
+
+**GGWP, goals achieved, check out the publicly available solutions from one of the winners [here](https://github.com/evmcheb/wintermute-alpha) to be better prepared for [the 2025 edition](https://alpha.wintermute.com/).**
 
 ## Rules
 
